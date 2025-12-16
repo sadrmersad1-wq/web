@@ -1,4 +1,7 @@
----
+---2072.0 -2562.0 2233.0 -2448.0 0x993333AA  // Grove Street Families (GSF) - سبز تیره
+-1718.0 130.0 -1579.0 245.0 0xAA3399AA   // Ballas - بنفش تیره
+1418.0 -1731.0 1557.0 -1632.0 0xFFFFCC00   // Los Santos Vagos - زرد طلایی
+2168.0 -1460.0 2322.0 -1347.0 0x3399FFAA
 title: Introduction
 sidebar_label: Introduction
 description: Documentations for open.mp and SA-MP modifications
